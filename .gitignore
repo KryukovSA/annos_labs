@@ -1,0 +1,63 @@
+# Object files
+obj/
+
+*.o
+*.d
+
+# Executables
+*.out
+*.bin
+*.strip
+
+src/kernel/boot/bootloader
+src/kernel/loader/loader
+src/kernel/kernel
+
+# Debug files
+*.debug
+
+# Autocomplete
+.clang_complete
+
+# Image files
+*.img
+
+# Ctags
+tags
+
+# Temporary files
+*.swp
+
+# Dia temporary files
+*~
+
+# Latex files
+*.pdf
+*.eps
+*.aux
+*.toc
+*.log
+*.blg
+*.bbl
+.deps
+doc/tex/inc/*
+
+# Autotools
+*.a
+*.in
+*.guess
+*.status
+*.sub
+COPYING
+INSTALL
+missing
+depcomp
+install-sh
+compile
+.dirstamp
+configure
+autom4te.cache
+Makefile
+Makefile.part
+aclocal.m4
+.vscode/c_cpp_properties.json

@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"recommendations": [
+			"ms-vscode.makefile-tools",
+			"ms-vscode.cpptools-extension-pack",
+			"maelvalais.autoconf",
+			"eamodio.gitlens"
+		],
+		"cSpell.words": [
+			"APIC",
+			"EFER",
+			"gdtr",
+			"IOAPIC",
+			"lgdt",
+			"NGDT",
+			"sgdt"
+		],
+		"makefile.makeDirectory": "src/"
+	}
+}
